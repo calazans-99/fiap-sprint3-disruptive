@@ -119,6 +119,6 @@ timestamp,label,conf,x1,y1,x2,y2,cx,cy,evento
 
 ---
 
-## 📜 Licença  
-
-Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar.  
+👥 Desenvolvedores
+Marcus Vinicius de Souza Calazans — RM: 556620
+Lucas Abud Berbel — RM: 557957
